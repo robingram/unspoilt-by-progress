@@ -100,4 +100,10 @@ Cache versioning can help to alleviate any pain from updating the service worker
 
 ![](./slides/14.png)
 
+[Your first PWA](https://codelabs.developers.google.com/codelabs/your-first-pwapp/)
+
 ![](./slides/15.png)
+
+* [Workbox](https://developers.google.com/web/tools/workbox/)
+* [Gatsby.js](https://www.gatsbyjs.org/)
+* [PWA Directory](https://pwa-directory.appspot.com/)
